@@ -2,7 +2,7 @@
   
 # Pokédex
   
-🐣 Projeto desenvolvido em React JS com o consumo de uma API REST ([PokeAPI](https://pokeapi.co/)), simulando uma Pokédex, com funcionalidades como capturar o pokémon, remover, ver detalhes, etc.
+> 🐣 Projeto desenvolvido em React JS com o consumo de uma API REST ([PokeAPI](https://pokeapi.co/)), simulando uma Pokédex, com funcionalidades como capturar o pokémon, remover, ver detalhes, etc.
   
   <img src="https://user-images.githubusercontent.com/70871620/193479141-2ebcdf2e-83af-4afe-b729-1c0470ac28d8.gif" height="100px">
   
@@ -121,7 +121,18 @@ Inicie o servidor
 ```
 
 </details>  
+
+ --- 
+ 
+<details>
+<summary><h2>🤹🏾‍♂️ Stacks utilizadas</h2></summary>
   
+- UX/UI Design
+- HTML e Styled-Components
+- React JS
+  
+</details>   
+
  --- 
  
 <details>
