@@ -140,9 +140,13 @@ Inicie o servidor
 
 <div align="center">
 
- Home | Página de detalhes 
-  --- | --- 
-  <img src="https://user-images.githubusercontent.com/70871620/193480187-8c9475d3-4cf4-4b3b-834a-d87570406957.png" max-width="1220px" title="Página inicial"/> | <img src="https://user-images.githubusercontent.com/70871620/193480267-c05cf775-d140-4695-bdba-908c5dfa23f9.png" max-width="1220px" title="Página de detalhes" align="right" /> 
+ Home
+  ---
+<img src="https://user-images.githubusercontent.com/70871620/193480187-8c9475d3-4cf4-4b3b-834a-d87570406957.png" max-width="1220px" title="Página inicial"/>
+
+Página de detalhes 
+---
+<img src="https://user-images.githubusercontent.com/70871620/193480267-c05cf775-d140-4695-bdba-908c5dfa23f9.png" max-width="1220px" title="Página de detalhes" align="right" /> 
 
 </div>
 </details>
