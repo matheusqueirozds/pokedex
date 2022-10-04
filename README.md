@@ -4,7 +4,7 @@
   
 > 🐣 Projeto desenvolvido em React JS com o consumo de uma API REST ([PokeAPI](https://pokeapi.co/)), simulando uma Pokédex, com funcionalidades como capturar o pokémon, remover, ver detalhes, etc.
   
-  <img src="https://user-images.githubusercontent.com/70871620/193479141-2ebcdf2e-83af-4afe-b729-1c0470ac28d8.gif" height="100px">
+  <img src="https://user-images.githubusercontent.com/70871620/193479141-2ebcdf2e-83af-4afe-b729-1c0470ac28d8.gif" height="100px" title="O nerd atrás da porta"/>
   
 <br>
   
